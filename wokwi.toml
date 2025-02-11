@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/tarefa2-aula-sincrona-06-02-pwm.uf2'
+elf = 'build/tarefa2-aula-sincrona-06-02-pwm.elf'
