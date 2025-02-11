@@ -77,7 +77,7 @@ A simulação foi realizada no **Wokwi Simulator** e o desenvolvimento no **VS C
 
 O projeto está organizado da seguinte forma:
 
-- **pwm_servo_control.c** - Arquivo principal contendo a lógica de controle do servomotor.
+- **tarefa2-aula-sincrona-06-02-pwm.c** - Arquivo principal contendo a lógica de controle do servomotor.
 - **CMakeLists.txt** - Configuração do build para o Pico SDK.
 - **wokwi.toml** - Arquivo de configuração do Wokwi Simulator.
 - **diagram.json** - Configuração do layout da simulação.
